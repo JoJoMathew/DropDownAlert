@@ -2,7 +2,6 @@
 Drop down alert for iOS
 
 ## Usage
-
 #### Top
     let alert = DropDownAlert()
     alert.alertWith("U can use just title")
