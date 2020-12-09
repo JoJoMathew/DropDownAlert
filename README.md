@@ -2,7 +2,7 @@
 Drop down alert for iOS
 
 ## Usage
-#### Top
+### Top
     let alert = DropDownAlert()
     alert.alertWith("U can use just title")
     
@@ -76,7 +76,7 @@ Drop down alert for iOS
     case normal
   }
  ``` 
-### Requirements
+## Requirements
 iOS 8.0 +
 Swift 3.0 +
 Xcode 8.0 +
